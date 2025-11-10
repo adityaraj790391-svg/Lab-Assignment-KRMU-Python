@@ -1,0 +1,8 @@
+Meal Name	Calories
+Breakfast	450.0
+Lunch	600.0
+Dinner	500.0
+Total Calories:	1550.0
+Average per Meal:	516.67
+Daily Limit:	1500.0
+Warning: You have exceeded your daily limit!
